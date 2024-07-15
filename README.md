@@ -20,7 +20,10 @@ I'm an enthusiastic go-getter with a knack for working both in teams and solo mi
 
 ## 🏆 Certificates
 
-- 🏆 Career Essentials in Generative AI by Microsoft and LinkedIn 
+- 🏆 **[Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/702f346edb41991358a6ef5d09e415502cd2e2772dc6b3d6e4bcb5ec7e15e56c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bi2nT5I7vSSCK4c9mCUPikA%3D%3D)** (July, 2024) (Microsoft)</br>
+- 🏆 **[AI Career Essentials](https://intranet.alxswe.com/certificates/N3HYCcS2LX)** (July, 2024) (ALX Africa)</br>
+- 🏆 **[Introduction To Microsoft Excel](https://coursera.org/verify/QT8ALRGGS3YS)** (June, 2024) (Coursera)</br>
+- 🏆 **[Master Microsoft Excel](https://www.linkedin.com/learning/certificates/adf3f9122ea526741fe6ef2fc053b4ebfdb01db9db90141d16a5f159b69d59f5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B844f%2BiUHTG%2B0sSbznXd%2BkQ%3D%3D)** (July, 2024) (LinkedIn)</br>
 - 🥉 Third Runner-up in the 2023 UGASS Data Hackathon
 
 ## 📬 Get in Touch
